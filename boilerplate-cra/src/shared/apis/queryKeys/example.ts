@@ -1,0 +1,6 @@
+const QUERY_KEYS = {
+  EXAMPLE_POSTS: 'EXAMPLE_POSTS',
+  EXAMPLE_PHOTOS: 'EXAMPLE_PHOTOS',
+};
+
+export default QUERY_KEYS;
