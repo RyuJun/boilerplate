@@ -1,0 +1,3 @@
+[submodule "boilerplate-cra"]
+	path = boilerplate-cra
+	url = https://github.com/RyuJun/boilerplate.git
